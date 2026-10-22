@@ -1,0 +1,21 @@
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/ctwgL/deploy.git
+[submodule "benchmark_tools"]
+	path = benchmark_tools
+	url = https://github.com/ctwgL/benchmark_tools.git
+[submodule "data_factory"]
+	path = data_factory
+	url = https://github.com/ctwgL/data_factory.git
+[submodule "TN"]
+	path = TN
+	url = https://github.com/ctwgL/text_normalization.git
+[submodule "llm_tts"]
+	path = llm_tts
+	url = https://github.com/ctwgL/llm_tts.git
+[submodule "tts_dp"]
+	path = tts_dp
+	url = https://github.com/ctwgL/tts_dp.git
+[submodule "wenet_note"]
+	path = wenet_note
+	url = https://github.com/ctwgL/wenet_note.git
