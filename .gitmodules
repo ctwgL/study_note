@@ -19,3 +19,6 @@
 [submodule "wenet_note"]
 	path = wenet_note
 	url = https://github.com/ctwgL/wenet_note.git
+[submodule "project_wair"]
+	path = project_wair
+	url = https://github.com/ctwgL/project_wair.git
